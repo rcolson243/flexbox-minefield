@@ -1,0 +1,992 @@
+body
+{
+    background-color: #fff;
+    margin-top: 200px;
+}
+.main-1
+{
+    height: 490px;
+    width: 486px;
+    border: solid 1px #444;
+    margin: auto;
+}
+.www
+{
+    height: 470px;
+    width: 470px;
+    border-left: solid 10px rgb(201, 197, 197);
+    border-top: solid 10px rgb(201, 197, 197);
+    border-bottom: solid 10px rgb(201, 197, 197);
+    border-right: solid 6px #fff;
+    margin: auto;
+}
+.main
+{
+    background-color: rgb(201, 197, 197);
+    height: 450px;
+    width: 450px;
+    border-left: solid 10px rgb(142, 139, 139);
+    border-top: solid 10px rgb(142, 139, 139);
+    border-bottom: solid 10px #fff;
+    border-right: solid 10px #fff;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.one
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.two
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+.three
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.four
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.fivi
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.six
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.seven
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.eight
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+
+.nine
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: greenyellow;
+    font-family: initial;
+    margin: auto;
+}
+.ten
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color:greenyellow;
+    font-family: initial;
+    margin: auto;
+}
+.eleven{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color:greenyellow;
+    font-family: initial;
+    margin: auto;
+}
+.twelve
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.thirteen{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.fourteen{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.fifteen
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.sixteen
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.seventeen
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.eighteen{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.nineteen
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--20
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--21
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--22
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--23{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--24
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+
+.RAS--25
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color:greenyellow;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--26
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: greenyellow;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--27{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--28
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 25px;
+    font-size: 40px;
+    font-family: initial;
+    margin: auto;
+}
+
+.RAS--29
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--30{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--31{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--32{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--33
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color:black;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--34
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+
+}
+.RAS--35
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--36
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--37{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--38{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: greenyellow;
+    font-family: initial;
+    margin: auto;
+}
+.RAS--39{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.AA40
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+
+.AA41
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.AA42{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: red;
+    font-family: initial;
+    margin: auto;
+}
+.AA43{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: red;
+    font-family: initial;
+    margin: auto;
+}
+.AA44{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: red;
+    font-family: initial;
+    margin: auto;
+}
+.AA45
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+.AA46{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: greenyellow;
+    font-family: initial;
+    margin: auto;
+}
+.AA47
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: blue;
+    font-family: initial;
+    margin: auto;
+}
+.AA48
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+
+.AA49
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+.B50
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+.B51
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+
+.B52
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+
+.B53
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+.B54
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: red;
+    font-family: initial;
+    margin: auto;
+}
+.B55
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+.B56
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+
+.B57
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+
+.B58
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+.B59
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+
+
+.c60
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+
+
+.c61
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+
+}
+
+
+.c62{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px dotted black;
+    border-right: 4px dotted black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+.c63{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+
+
+.C64
+{
+    width: 50px;
+    height: 50px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    text-align: center;
+    display: inline;
+    font-size: 40px;
+    color: black;
+    font-family: initial;
+    margin: auto;
+}
+#aaa
+{
+    background-color: gray;
+    width: 49px;
+    height: 49px;
+}
+#aaa:hover
+{
+    background-color: yellow;
+}
+#bbb
+{
+    background-color: gray;
+    width: 49px;
+    height: 49px;
+}
+#bbb:hover
+{
+    background-color: red
+}
+#ccc
+{
+    background-color: gray;
+    width: 49px;
+    height: 49px;
+}
+#ccc:hover
+{
+    background-color: deepskyblue;
+}
+#ddd
+{
+    background-color: gray;
+    width: 49px;
+    height: 49px;
+}
+#ddd:hover
+{
+    background-color: orange;
+}
+#eee
+{
+    background-color: gray;
+    width: 49px;
+    height: 49px;
+}
+#eee:hover
+{
+    background-color: rgb(12, 15, 7);
+}
+#fff
+{
+    background-color: gray;
+    width: 49px;
+    height: 49px;
+}
+#fff:hover
+{
+    background-color: greenyellow;
+}
+#ggg
+{
+    background-color: gray;
+    width: 49px;
+    height: 49px;
+}
+#ggg:hover
+{
+    background-color: rgb(151, 47, 255);
+}
+#hhh
+{
+    background-color: gray;
+    width: 49px;
+    height: 49px;
+}
+#hhh:hover
+{
+    background-color: rgb(47, 252, 255);
+}
+#iii
+{
+    background-color: gray;
+    width: 49px;
+    height: 49px;
+}
+#iii:hover
+{
+    background-color: rgb(255, 47, 144);
+}
+#jjj
+{
+    background-color: gray;
+    width: 49px;
+    height: 49px;
+    border-left: #fff 10px ;
+}
+#jjj:hover
+{
+    background-color: rgb(47, 85, 255);
+}
+#kkk
+{
+    background-color: gray;
+    width: 49px;
+    height: 49px;
+}
+#kkk:hover
+{
+    background-color: greenyellow;
+}
+#lll
+{
+    background-color: gray;
+    width: 49px;
+    height: 49px;
+}
+#lll:hover
+{
+    background-color: greenyellow;
+}
+
