@@ -1,2 +1,2 @@
 # flexbox-minefield
-https://github.com/rcolson243/flexbox-minefield
+ https://rcolson243.github.io/flexbox-minefield/
